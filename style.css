@@ -6,3 +6,28 @@ h1{
 body {
     background-color: black;
 }
+
+a{
+    color:gray ;
+    text-decoration: none;
+    text-align: center;
+    
+}
+nav{
+    align-items: center;
+    display: flex ;
+    
+}
+button{
+    padding: 10px 20px  ;
+    margin : 10px ;
+
+}
+hr{
+    border: 1px solid brown ;
+}
+h2
+{
+    color: white;
+
+}
