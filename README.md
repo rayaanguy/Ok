@@ -6,9 +6,8 @@ you can access by clicking on this link (coming soon !!!)
 ## what are my goals -
 ### version 0.1
 [x] a static site about 3 am
-[] added font
-[] added JavaScript 
 ## version 0.2
+[] add js
 [] add transition 
 [] add animation 
 ## Why i have created -
