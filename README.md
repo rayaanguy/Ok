@@ -2,7 +2,7 @@
 ## Introduction -
 this is a 3 am themed project about what happens at 3 am it is jut a basic site about it 
 ## How to use this -
-you can access by clicking on this link (https://ok-five-khaki.vercel.app/)
+you can access by clicking on this link (https://ok-study.vercel.app/)
 ## what are my goals -
 to show what happens at 3am 
 ## why I created  -
